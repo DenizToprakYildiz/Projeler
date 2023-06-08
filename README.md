@@ -17,4 +17,11 @@ Malzeme Listesi
 
 ![image](https://github.com/Deniztr35/Projeler/assets/134064855/0c63afe3-2ce2-4c39-8ad2-4ac22f3c9bca)
 
+Proje Linkleri
+
+https://www.tinkercad.com/things/b1SE2cJFm6X-arduino-projesi-tinkercad
+
+Projeyi Gerçekleştirenler
+
+2426 Deniz Toprak Yıldız
 
