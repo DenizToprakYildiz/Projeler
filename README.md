@@ -21,7 +21,7 @@ Proje Linkleri
 
 https://www.tinkercad.com/things/b1SE2cJFm6X-arduino-projesi-tinkercad
 
-https://www.youtube.com/watch?v=8lsjvGF6JM8
+
 
 Projeyi Gerçekleştirenler
 
